@@ -1,6 +1,6 @@
 # Trying .NET Core 2
 
-Hello World with NUnit, have .Net Core 2.0 installed
+Hello World with NUnit, have [.Net Core 2.0 installed](https://www.microsoft.com/net/learn/get-started)
 
 ## To run the console app
 ```
