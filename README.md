@@ -1,5 +1,7 @@
 # Trying .NET Core 2
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/juz501/dotnetHelloWorld?branch=master)](https://bettercodehub.com/)
+
 Hello World with NUnit, have [.Net Core 2.0 installed](https://www.microsoft.com/net/learn/get-started)
 
 ## Installing NUnit Test Templates
